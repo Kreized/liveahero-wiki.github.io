@@ -63,3 +63,4 @@ assisted = "Heh heh heh... What poor taste."
 - His full name is Exio Grant (エクシオ・グラント)
 - Refers to {% chara_link Ryekie %} in his Hero line
 - Refers to {% chara_link Huckle %} in his Hero 2 line
+- Refers to {% chara_link Broker %} in his relation line
